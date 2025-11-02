@@ -1,12 +1,9 @@
-Week 4 Assignment: AI in Software Engineering
-Theme: Building Intelligent Software Solutions
-
-Part 2: Practical Implementation (60%)
+Part 2: Practical Implementation
 
 Task 1: AI-Powered Code Completion
 
 Objective
-Use an AI code completion tool (e.g., GitHub Copilot or Tabnine) to write a function that sorts a list of dictionaries by a specific key. Compare the AI-generated version with your manual implementation, and analyze efficiency and maintainability.
+Using an AI code completion tool (e.g., GitHub Copilot or Tabnine) to write a function that sorts a list of dictionaries by a specific key. Comparing the AI-generated version with my manual implementation, and analyzing efficiency and maintainability.
 
 Manual Implementation
 ```python
@@ -40,7 +37,7 @@ def sort_dicts_by_key(data_list, sort_key):
     return sorted(data_list, key=lambda item: item.get(sort_key, 0))
 ```
 
-Analysis (200 words)
+Analysis 
 The manual implementation offers clear error handling, docstrings, and better readability for collaborative environments. It explicitly raises awareness when a key is missing, improving debugging transparency. In contrast, the AI-suggested version is shorter and elegant, leveraging Python’s `.get()` method for safety but defaults missing keys to zero, which might mask data inconsistencies. It’s faster to write and understand in small scripts but less explicit for production-level code.
 
 Overall, Copilot’s completion accelerated initial coding time by about 60%, suggesting syntactically valid and optimized constructs instantly. However, it still required manual review and refactoring to align with best practices (docstrings, exceptions, type safety). AI-generated code is ideal for scaffolding repetitive logic; manual refinement ensures robustness and maintainability. The best workflow is AI-assisted creation plus human oversight.
@@ -50,7 +47,7 @@ Overall, Copilot’s completion accelerated initial coding time by about 60%, su
 Task 2: Automated Testing with AI
 
 Objective
-Use Selenium IDE or Testim.io (AI-powered) to automate testing for a simple login page (valid/invalid credentials).
+Using Selenium IDE or Testim.io (AI-powered) to automate testing for a simple login page (valid/invalid credentials).
 
 Example Selenium Script (Python)
 ```python
@@ -94,7 +91,7 @@ During the login test, AI detected unstable selectors (auto-generated IDs) and r
 Task 3: Predictive Analytics for Resource Allocation
 
 Objective
-Use the Kaggle Breast Cancer dataset to train a Random Forest model that predicts issue priority (High/Medium/Low).
+Using the Kaggle Breast Cancer dataset to train a Random Forest model that predicts issue priority (High/Medium/Low).
 
 Sample Notebook Code
 ```python
