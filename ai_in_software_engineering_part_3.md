@@ -1,6 +1,7 @@
 Part 3: Ethical Reflection
 
 Scenario
+
 My predictive model from Task 3 (based on the Breast Cancer dataset) is now deployed in a company to help prioritize software issues (e.g., High, Medium, Low). This model is now influencing resource allocation, task urgency, and possibly even developer evaluations. Ethical reflection ensures that the AI system remains fair, transparent, and accountable.
 
 1. Potential Biases in the Dataset
