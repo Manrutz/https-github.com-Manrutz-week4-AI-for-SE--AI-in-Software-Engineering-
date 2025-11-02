@@ -1,9 +1,7 @@
 Week 4 Assignment: AI in Software Engineering
 Theme: Building Intelligent Software Solutions
 
-Part 1: Theoretical Analysis (30%)
-
-1) Short Answer Questions
+Part 1: Theoretical Analysis
 
 Q1. How AI-driven code generation (e.g., GitHub Copilot) reduces dev time — and its limits
 Time savings
