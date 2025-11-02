@@ -204,5 +204,7 @@ This assignment demonstrates how AI can augment software engineering processes â
 ---
 
 **Author:** Remmy Kipruto Tumo
+
 **Tools Used:** GitHub Copilot, Testim.io, Scikit-learn, Selenium, IBM AIF360
+
 **Platform:** Google Colab, Kaggle Datasets
