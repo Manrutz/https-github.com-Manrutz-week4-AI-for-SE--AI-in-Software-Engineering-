@@ -1,8 +1,11 @@
 ### 🧠 Project Overview
 
 **Project Title:** *AI in Software Engineering — Building Intelligent Software Solutions*
+
 **Author:** Remmy Kipruto Tumo
+
 **Week:** 4
+
 **Power Learn Academy** [AI For Software Engineering 2025]
 
 ### 🎯 Purpose
